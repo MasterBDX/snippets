@@ -1,0 +1,9 @@
+Hi dear :
+please confirm this email ({{email}}) by clicking the link below
+{{link}}
+
+once you confirm your email you can Sign in and shop 
+
+Thank you
+
+Carpets Ecommerce.
